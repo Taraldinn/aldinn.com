@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: ""
-title: "The Matrix Trilogy — ফুল কনসেপ্ট এক্সপ্লেইন্ড | সায়েন্টিফিক থিওরি | ইন্ডিং এক্সপ্লেইন্ড উইথ প্যারাডক্স | ফ্যাক্টস:bar_chart:"
+title: "The Matrix Trilogy — ফুল কনসেপ্ট এক্সপ্লেইন্ড "
 date: 2022-07-29
 showAuthor: true
 showDate: true
