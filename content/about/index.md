@@ -9,7 +9,7 @@ showReadingTime: true
 
 ### Hi :wave:
 
-My name is Quazi Mohammad Aldin fardin Aka Aldinn, and I'm currently living in [Chittagong, Bangladesh](https://goo.gl/maps/8uTjwXLdxJSrSfUc6) but have always lived in Yorkshire (_insert yorkshire chant_). 
+My name is Quazi Mohammad Aldin fardin Aka Aldinn, and I'm currently living in [Chittagong, Bangladesh](https://goo.gl/maps/nUJroVJuQ6RvbdPm7). 
 
 I'm a self learned Software Developer and enjoy tinkering within the Software Engineering space as often as I can. I love cycling, I love music. I contribute to open source projects at leisure. I would love to pursue challenging opportunities which contribute to a better tomorrow for all of us!
 

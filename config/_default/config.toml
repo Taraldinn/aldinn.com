@@ -12,3 +12,8 @@ home = [ "HTML", "RSS", "JSON" ]
 
 [markup.goldmark.renderer]
 unsafe= true
+
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
