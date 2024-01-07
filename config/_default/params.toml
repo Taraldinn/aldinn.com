@@ -1,10 +1,9 @@
-colorScheme = "fire"
+colorScheme = "ocean"
 homepage.layout = "profile"
 homepage.showRecent = true
 mainPosts = ["posts"]
-showAppearanceSwitcher = true
+defaultAppearance = 'dark'
+autoSwitchApperance = true
 enableSearch = true
-showScrollToTop = true
-
-[fathomAnalytics]
-site = "RCFFTRLS"
+footer.showScrollToTop = true
+footer.showAppearanceSwitcher = true

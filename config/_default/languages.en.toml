@@ -1,53 +1,28 @@
-title = "Aldinn"
+title = "James Millner"
+
+languageCode = "en"
+languageName = "English"
+weight = 1
+
+[languages]
+[languages.en]
+htmlCode = "en"
+displayName = "EN"
+rtl = false
+
 
 [author]
-name = "Quazi Mohammmad Aldinn Fardin"
+name = "James Millner"
 image = "img/avatar.jpg"
-headline = "A motivated learner from Bangladesh"
-bio = "Programmer"
+headline = "UK-based Software Engineer and avid cyclist, fitness enthusiast, settled in Huddersfield, Yorkshire."
 links = [
-  { email = "mailto:me@aldinn.com" },
-  { link = "https://aldinn.com/" },
-  #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
-  #   { apple = "https://www.apple.com" },
-  #   { blogger = "https://username.blogspot.com/" },
-  #   { codepen = "https://codepen.io/username" },
-  { dev = "https://dev.to/Taraldinn" },
-  #   { discord = "https://discord.gg/invitecode" },
-  #   { dribbble = "https://dribbble.com/username" },
-  { facebook = "https://facebook.com/Taraldinn" },
-  #   { flickr = "https://www.flickr.com/photos/username/" },
-  #   { foursquare = "https://foursquare.com/username" },
-  { github = "https://github.com/Taraldinn" },
-  #   { gitlab = "https://gitlab.com/username" },
-  #   { google = "https://www.google.com/" },
-  { hashnode = "https://aldinn.hashnode.dev" },
-  { instagram = "https://instagram.com/Taraldinn" },
-  #   { keybase = "https://keybase.io/username" },
-  #   { kickstarter = "https://www.kickstarter.com/profile/username" },
-  #   { lastfm = "https://lastfm.com/user/username" },
-  #   { linkedin = "https://linkedin.com/in/username" },
-  #   { mastodon = "https://mastodon.instance/@username" },
-  #   { medium = "https://medium.com/username" },
-  #   { microsoft = "https://www.microsoft.com/" },
-  #   { orcid = "https://orcid.org/userid" },
-  #   { patreon = "https://www.patreon.com/username" },
-  #   { pinterest = "https://pinterest.com/username" },
-  #   { reddit = "https://reddit.com/user/username" },
-  #   { researchgate = "https://www.researchgate.net/profile/username" },
-  #   { slack = "https://workspace.url/team/userid" },
-  #   { snapchat = "https://snapchat.com/add/username" },
-  #   { soundcloud = "https://soundcloud.com/username" },
-  #   { stack-overflow = "https://stackoverflow.com/users/userid/username" },
-  #   { steam = "https://steamcommunity.com/profiles/userid" },
-  #   { telegram = "https://t.me/username" },
-  #   { tiktok = "https://tiktok.com/@username" },
-  #   { tumblr = "https://username.tumblr.com" },
-  #   { twitch = "https://twitch.tv/username" },
-  { twitter = "https://twitter.com/Taraldinn" },
-  { whatsapp = "https://wa.me/01630616854" },
-  #   { youtube = "https://youtube.com/username" },
+  { blueskyweb = "https://bsky.app/profile/jamesmillner.dev" },
+  { x = "https://twitter.com/_jamesmillner" },
+  { youtube = "https://www.youtube.com/channel/UCNLK4hRA46Oe21VKoXweM-A/featured" },
+  { strava = "https://www.strava.com/athletes/james_millner" },
+  { komoot = "https://www.komoot.com/user/813735907910?ref=wud" },
+  { github = "https://github.com/james-millner" },
+  { linkedin = "https://www.linkedin.com/in/%F0%9F%9A%B4%E2%80%8D%E2%99%82%EF%B8%8Fjames-millner-26a7974a" },
+  { email = "mailto:hello@jamesmillner.dev" },
+  { calendar = "https://cal.com/jamesmillner" },
 ]
-[share-links-active]
-  twitter = true
-  linkedin = true

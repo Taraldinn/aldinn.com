@@ -2,24 +2,40 @@
 layout: page
 permalink: "aboutme"
 title: About
-showAuthor: true
-showDate: true
-showReadingTime: true
+showAuthor: false
+showDate: false
+showReadingTime: false
 ---
 
 ### Hi :wave:
 
-My name is Quazi Mohammad Aldin fardin Aka Aldinn, and I'm currently living in [Chittagong, Bangladesh](https://goo.gl/maps/nUJroVJuQ6RvbdPm7). 
-
-I'm a self learned Software Developer and enjoy tinkering within the Software Engineering space as often as I can. I love cycling, I love music. I contribute to open source projects at leisure. I would love to pursue challenging opportunities which contribute to a better tomorrow for all of us!
+My name is James Millner, and I'm currently located in [Huddersfield, West Yorkshire, UK](https://goo.gl/maps/b2JDpuxTTg5BFTe88) but have always lived in the Yorkshire area. 
 
 
+![Ah Huddersfield](images/cycling-collage.PNG "Some lovely Huddersfield hills, one of the trusty bikes!")
 
-### Favorite Topics
+### Fun Facts
 
-Currently, I am very interested in **Python**, **django**, and **Software Engineering** in general. 
+- Unfortunately I'm not the legendary Liverpudlian footballer [James Milner](https://en.wikipedia.org/wiki/James_Milner) - although my mum will call me everytime I'm _"on the telly!"_
 
-I'm also very keen in the world of **DevOps** and **Containerization**. 
+
+
+### Engineering Specific Notes
+
+I'm a huge advocate of Kotlin. Its expressive and concise nature takes writing JVM-based applications to a whole new level, which makes it a current hobby language of choice.
+
+Spring Boot is another resource I often lean on. It simplifies the process of setting up stand-alone applications, eliminating a lot of the fuss associated with boilerplate code and infrastructure.
+
+I've also spent a good amount of time with Kafka, an event-streaming platform that's ideal for handling high-volume, real-time data. It's an integral part of the event-driven systems I work with, and lots of my professional experience
+has interacted with it.
+
+In addition to application development, I've frequently been involved with Containerisation and DevOps, not just professionally, but also as a personal hobby. 
+This interest aligns with my fascination for System-on-Chip (SoC) computing. The concept of integrating all the components of a computer onto a single chip captivates me, and I may have a decent collection of Raspberry Pi's, much to the joy of my partner. 
+
+Given the impressive power that these compact machines now possess, they offer an excellent platform for skill development. Check out [my blog post about Pi's](https://jamesmillner.dev/blog/2022/03/14/raspberry-pi-day/), but I find Kubernetes fascinating and challenging, so I've been trying to upskill on my own 
+playground.
+
+So, these are the bits of tech that get me up and coding in the morning!
 
 ### Experience
 

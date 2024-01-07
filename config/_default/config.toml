@@ -1,4 +1,4 @@
-baseURL = "https://aldinn.com/"
+baseURL = "https://jamesmillner.dev/"
 languageCode = "en"
 defaultContentLanguage = "en"
 enableRobotsTXT = true
@@ -13,7 +13,5 @@ home = [ "HTML", "RSS", "JSON" ]
 [markup.goldmark.renderer]
 unsafe= true
 
-[sitemap]
-  changefreq = "weekly"
-  filename = "sitemap.xml"
-  priority = 0.5
+paginate = 10
+summaryLength = 0

@@ -10,7 +10,8 @@ Hosted: Netlify with SSL
 
 At the time of writing I have:
 
-* hugo v0.94.1+extended 
+* hugo v0.119.0
+* Go 1.21.3
 
 In order to run the site.
 

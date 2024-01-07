@@ -1,14 +1,17 @@
 ---
 layout: page
-permalink: "hello-world"
-title: "A whole new Hello World! :earth_africa:"
-date: 2022-03-12
+permalink: "raspberry-pi-day"
+title: "Raspberry Pi Day!"
+date: 2022-03-14
+thumbnail: "images/raspberrypi-thumb.png"
 showAuthor: true
 showDate: true
 showReadingTime: true
+showTableOfContents: true
 showSummary: true
-showComments: false
+showComments: true
 ---
+
 
 # Hello :wave:
 

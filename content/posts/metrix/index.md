@@ -1,16 +1,16 @@
 ---
 layout: page
-permalink: ""
-title: "The Matrix Trilogy — ফুল কনসেপ্ট এক্সপ্লেইন্ড "
-date: 2022-07-29
+permalink: "hell-matrix"
+title: "What the hell is matrix!"
+date: 2022-03-14
+thumbnail: "images/raspberrypi-thumb.png"
 showAuthor: true
 showDate: true
 showReadingTime: true
+showTableOfContents: true
 showSummary: true
 showComments: true
-showTableOfContents: true
 ---
-
 
 
 কেউ চাইলে নির্দ্বিধায় আমার লিখা এই আর্টিকেল টি শেয়ার করতে পারেন। আমার কোনো আপত্তি নেই।
