@@ -1,4 +1,4 @@
-title = "James Millner"
+title = "Quazi Mohammad Aldin Fardin"
 
 languageCode = "en"
 languageName = "English"
@@ -12,9 +12,9 @@ rtl = false
 
 
 [author]
-name = "James Millner"
+name = "Quazi Mohammad Aldin Fardin"
 image = "img/avatar.jpg"
-headline = "UK-based Software Engineer and avid cyclist, fitness enthusiast, settled in Huddersfield, Yorkshire."
+headline = "A Full Time Useless person"
 links = [
   { blueskyweb = "https://bsky.app/profile/jamesmillner.dev" },
   { x = "https://twitter.com/_jamesmillner" },
