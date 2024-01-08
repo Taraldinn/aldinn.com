@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "22d48bf6482fea34",
+        "id": "76cd2168e3ff72bc",
         "type": "tabs",
         "children": [
           {
-            "id": "689e8dda33ca4c8c",
+            "id": "5007e4dd3be599be",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,9 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "689e8dda33ca4c8c",
+  "active": "5007e4dd3be599be",
   "lastOpenFiles": [
+    "Django Authentication/images/image0ne.png",
+    "Django Authentication/images/imageTwo.png",
+    "Django Authentication/images",
     "Pasted.md",
+    "0002-01-08.md",
     "Django Authentication/index.md",
     "python-chapter-one/index.md",
     "Django Authentication/image0ne.png",
